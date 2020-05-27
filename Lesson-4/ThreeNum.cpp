@@ -23,9 +23,9 @@ int main()
   {
     mn=num3;
   }
-  if (abs(num1-num2)<(mx-mn) && abs(num2-num3)<(mx-mn) && abs(num3-num1)<(mx-mn))
+  if (abs(num1-num2)<=(mx-mn) && abs(num2-num3)<=(mx-mn) && abs(num3-num1)<=(mx-mn))
   {
-    cout << "These numbers are within " << (mx-mn) << "  of each other" << endl;
+    cout << "These numbers are within " << (mx-mn) << " of each other" << endl;
   }
   cout << mx << " " << mn << endl;
 }
