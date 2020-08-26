@@ -1,3 +1,3 @@
 # Introduction-to-C-
 
-A place meant to store the files that are necessary for teaching middle schoolers basic C++ algorithms and introduce them to USACO.
+A place to store the files necessary for teaching middle schoolers elementary C++ algorithms and introduce them to the USACO competition.
